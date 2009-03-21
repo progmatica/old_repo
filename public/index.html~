@@ -1,9 +1,11 @@
 <html>
   <head>
+    <title>Our Mission: Robot Terror</title>
   </head>
   <body>
     <div>
       <img src='images/progmatica.jpg' />
+      <br />
       In order to qualify for membership to PROGMATICA, you must:
       <ol>
         <li>Be human.</li>
